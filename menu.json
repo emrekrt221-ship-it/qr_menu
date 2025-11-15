@@ -1,0 +1,301 @@
+{
+  "Hamburgerler": [
+    {
+      "isim": "Et Hamburger",
+      "aciklama": "El yapımı 110 g dana köftesi, marul, domates, turşu ve özel sos ile patates kızartmasıyla servis edilir.",
+      "fiyat": "230 TL",
+      "resim": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Çıtır Tavuk Burger",
+      "aciklama": "Pane kaplı tavuk parçaları, coleslaw salatası ve patates kızartmasıyla.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1625716203963-a9aa71b9b36f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Tavuk Burger",
+      "aciklama": "Izgara tavuk fileto, marul ve özel sosla servis edilir.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Cheese Burger",
+      "aciklama": "Cheddar peynirli klasik burger, patates kızartmasıyla birlikte.",
+      "fiyat": "230 TL",
+      "resim": "https://images.unsplash.com/photo-1550317138-10000687a72b?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Patates Kızartması",
+      "aciklama": "Altın sarısı çıtır patatesler.",
+      "fiyat": "80 TL",
+      "resim": "https://images.unsplash.com/photo-1627308595229-7830a5c91f9f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Karamelize Soğan",
+      "aciklama": "Tatlı karamelize edilmiş soğan garnitürü.",
+      "fiyat": "15 TL",
+      "resim": "https://images.unsplash.com/photo-1601050690597-7333aef4b4d0?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Barbekü Tavuk Burger",
+      "aciklama": "Barbekü soslu tavuk burger, taze sebzelerle.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1585238341986-3ba8cfca96cb?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+
+  "Dürümler": [
+    {
+      "isim": "Et Beyti Dürüm",
+      "aciklama": "Baharatlı kıyma, lavaş içinde, yoğurt ve sos ile.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1601924579440-f68a1792f18f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Ciğer Dürüm",
+      "aciklama": "Mangalda pişmiş ciğer, baharat ve soğanla lavaşta servis edilir.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1598514982391-9c3fb9aa0d8c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Adana Dürüm",
+      "aciklama": "Baharatlı Adana kebap, lavaş arasında soğan, domates ve maydanozla.",
+      "fiyat": "130 TL",
+      "resim": "https://images.unsplash.com/photo-1606188074043-472dfb9c8bda?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Kuşbaşı Dürüm",
+      "aciklama": "Izgara kuşbaşı dana eti, yumuşak lavaşta sebzelerle.",
+      "fiyat": "130 TL",
+      "resim": "https://images.unsplash.com/photo-1598133894009-64a8fe170556?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Harbiye Dürüm",
+      "aciklama": "Mangalda pişmiş karışık etli özel dürüm.",
+      "fiyat": "140 TL",
+      "resim": "https://images.unsplash.com/photo-1626082950119-b94895b2b43a?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Tavuk Dürüm",
+      "aciklama": "Baharatlı tavuk parçaları, lavaşta soğan ve maydanozla.",
+      "fiyat": "200 TL",
+      "resim": "https://images.unsplash.com/photo-1601924579258-b9ba68544a29?auto=format&fit=crop&w=800&q=80"
+    }
+  ],
+
+  "Porsiyonlar": [
+    {
+      "isim": "Ciğer Porsiyon",
+      "aciklama": "Çift şiş baharatlı ciğer, pilav ve salata ile.",
+      "fiyat": "320 TL",
+      "resim": "https://images.unsplash.com/photo-1603071657125-1e4c6885c832?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Kuşbaşı Porsiyon",
+      "aciklama": "Mangalda ızgara kuşbaşı dana eti, pilav ve közlenmiş sebzelerle.",
+      "fiyat": "320 TL",
+      "resim": "https://images.unsplash.com/photo-1625938144723-7b5ed94a69e5?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Adana Porsiyon",
+      "aciklama": "Baharatlı Adana kebap, pilav ve garnitür ile.",
+      "fiyat": "320 TL",
+      "resim": "https://images.unsplash.com/photo-1582549181686-6f6aa63b2e5c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Bıçak Kıyması Porsiyon",
+      "aciklama": "Elle çekilmiş dana kıyma kebap, köz biber ve pilavla servis edilir.",
+      "fiyat": "320 TL",
+      "resim": "https://images.unsplash.com/photo-1617191510501-6b6e966b1af8?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Klasik Karışık (1 Kıyma + 1 Tavuk Şiş)",
+      "aciklama": "Kıyma ve tavuk şiş bir arada, pilav ve mezelerle.",
+      "fiyat": "380 TL",
+      "resim": "https://images.unsplash.com/photo-1565299585546-65bede7ab0df?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Porsiyon Karışık (1 Kıyma + 1 Kuşbaşı)",
+      "aciklama": "Dana kıyma ve kuşbaşı ızgara karışımı.",
+      "fiyat": "320 TL",
+      "resim": "https://images.unsplash.com/photo-1617191510365-6129e661fd7a?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Duble Karışık",
+      "aciklama": "Çift porsiyon karışık et tabağı, doyurucu servis.",
+      "fiyat": "450 TL",
+      "resim": "https://images.unsplash.com/photo-1575933233595-981acaad357c?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "isim": "Çöp Şiş Porsiyon",
+      "aciklama": "Mangalda pişmiş et veya tavuk şişler, pirinç pilavı ile.",
+      "fiyat": "300 TL",
+      "resim": "https://images.unsplash.com/photo-1606940735564-6ffde2b83d3e?auto=format&fit=crop&w=800&q=80"
+    }
+  ]
+,
+"Kebaplar": [
+  {
+    "isim": "Patlıcan Kebabı",
+    "aciklama": "Mangalda pişmiş dana kıyma ve közlenmiş patlıcanın muhteşem uyumu.",
+    "fiyat": "350 TL",
+    "resim": "https://images.unsplash.com/photo-1612874748442-1c28fd2968fd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Köfte",
+    "aciklama": "Izgarada pişmiş köfte, közlenmiş domates ve biber eşliğinde.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1608412166193-59da36e86073?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Kağıt Kebabı",
+    "aciklama": "Fırında pişen dana eti, baharatlı sebzelerle servis edilir.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1608543897040-1a4e2f6a1a6f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Yoğurtlu Beyti Sarma",
+    "aciklama": "Baharatlı kebap, lavaşa sarılır; yoğurt ve tereyağı sosuyla sunulur.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1612197526213-f38f85a4c3f4?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Et Pirzola Porsiyon",
+    "aciklama": "Mangalda pişmiş yumuşak et pirzola, pilav ve köz garnitürle.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1617196039897-7d9ecaf8bf39?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Tavuk Pirzola",
+    "aciklama": "Izgarada marine tavuk pirzola, garnitürlerle birlikte.",
+    "fiyat": "300 TL",
+    "resim": "https://images.unsplash.com/photo-1609838463546-429f47de4d0f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Ezme Üstü Kebap",
+    "aciklama": "Özel baharatlı ezme üzerinde sunulan kebap lezzeti.",
+    "fiyat": "430 TL",
+    "resim": "https://images.unsplash.com/photo-1612874750245-bcdfb14b6899?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Et Bonfile",
+    "aciklama": "Yumuşak ve sulu ızgara bonfile, pilav ve sebzelerle.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1577023311546-cdc07a8454d0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Kaz Başı",
+    "aciklama": "Baharat ve sebze karışımıyla pişen nefis kaz başı eti.",
+    "fiyat": "400 TL",
+    "resim": "https://images.unsplash.com/photo-1661956602228-4ad3fbef7401?auto=format&fit=crop&w=800&q=80"
+  }
+],
+
+"Mezeler": [
+  {
+    "isim": "Humus",
+    "aciklama": "Nohut, tahin, limon ve sızma zeytinyağı ile hazırlanmış meze.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1612197527037-a1ddbb2b9623?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Havuç Tarator",
+    "aciklama": "Rendelenmiş havuç, yoğurt ve sarımsak karışımı.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1631895950195-85bd5c971ae1?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Cevizli Biber",
+    "aciklama": "Ezilmiş ceviz, biber ve baharat karışımıyla hazırlanan meze.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1617196039817-d5f5a9561da6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Küçük Salata",
+    "aciklama": "Mevsim yeşillikleri ve zeytinyağlı sos.",
+    "fiyat": "40 TL",
+    "resim": "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Büyük Salata",
+    "aciklama": "Taze karışık mevsim salatası.",
+    "fiyat": "80 TL",
+    "resim": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Prenses (Mor Lahana)",
+    "aciklama": "Mor lahana ve yoğurt karışımı.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1582515073490-dc89cde4470c?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Yoğurtlu Patlıcan",
+    "aciklama": "Közlenmiş patlıcan ve yoğurtla hazırlanmış közlü meze.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1565958011705-44e211b19906?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Acılı Ezme",
+    "aciklama": "Domates, biber ve ince doğranmış soğan karışımıyla hazırlanan meze.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Karışık Meze Tabağı",
+    "aciklama": "Beş çeşit meze tek tabakta.",
+    "fiyat": "150 TL",
+    "resim": "https://images.unsplash.com/photo-1609856793863-95aa9a35f9ac?auto=format&fit=crop&w=800&q=80"
+  }
+],
+
+"İçecekler": [
+  {
+    "isim": "Kutu Kola",
+    "aciklama": "330 ml soğuk kola.",
+    "fiyat": "50 TL",
+    "resim": "https://images.unsplash.com/photo-1599110908708-bab62d7e1c68?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Küçük Ayran",
+    "aciklama": "Taze ev yapımı ayran.",
+    "fiyat": "20 TL",
+    "resim": "https://images.unsplash.com/photo-1604933813989-3330995e4b8f?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Açık Ayran",
+    "aciklama": "Soğuk büyük boy ev yapımı ayran.",
+    "fiyat": "30 TL",
+    "resim": "https://images.unsplash.com/photo-1608743516269-994cbdc9cf76?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Şalgam",
+    "aciklama": "Adana usulü şalgam suyu.",
+    "fiyat": "40 TL",
+    "resim": "https://images.unsplash.com/photo-1600419776717-1e305df6458d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Soda",
+    "aciklama": "Doğal maden suyu.",
+    "fiyat": "15 TL",
+    "resim": "https://images.unsplash.com/photo-1603071849080-01b17624676b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Ankara Gazozu",
+    "aciklama": "Klasik gazoz lezzeti.",
+    "fiyat": "40 TL",
+    "resim": "https://images.unsplash.com/photo-1579566368265-fe3a5d61b1bf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Kola (1 LT)",
+    "aciklama": "Soğuk 1 litrelik kola.",
+    "fiyat": "70 TL",
+    "resim": "https://images.unsplash.com/photo-1613470206853-3c294e927bbb?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "isim": "Su (Küçük)",
+    "aciklama": "0.5 L doğal su.",
+    "fiyat": "15 TL",
+    "resim": "https://images.unsplash.com/photo-1571989765831-7c1bdfc1afeb?auto=format&fit=crop&w=800&q=80"
+  }
+]
+}
