@@ -15,7 +15,7 @@
     {
       "isim": "Tavuk Burger",
       "aciklama": "Izgara tavuk fileto, marul ve özel sosla servis edilir.",
-      "fiyat": "90 TL",
+      "fiyat": "260 TL",
       "resim": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80"
     },
     {
@@ -35,6 +35,12 @@
       "aciklama": "Barbekü soslu tavuk burger, taze sebzelerle.",
       "fiyat": "260 TL",
       "resim": "images/bbq_burger.png"
+    },
+    {
+      "isim": "Burger No.1",
+      "aciklama": "110 gram Burger Köftesi,Çedar Peyniri, Marul, Dometes,Turşu Soğan, Özel sos. Patates Kızartmasıyla servis edilir.",
+      "fiyat": "280 TL",
+      "resim": "images/upload-c4e9d313-18c7-4d65-b707-00f6a1e08346.jpg"
     }
   ],
   "Dürümler": [
