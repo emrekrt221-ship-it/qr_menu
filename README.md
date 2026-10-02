@@ -1,5 +1,9 @@
 # Kurt Kebap Yenişehir — QR Menü
 
+Müşteri menüsü artık https://kurtkebap-yenisehir.github.io/ adresindedir. Eski müşteri adresi yeni adrese yönlendirilir; basılı eski QR kodlar kullanılabilir.
+
+Bu depo ürünlerin, fiyatların ve yüklenen fotoğrafların merkezi kaynağı olmaya devam eder. Mevcut erişim anahtarı ve `admin.html` paneli kullanılabilir; yeni işletme adresindeki yönetim paneli de aynı depoyu günceller. Kaydedilen fiyat/fotoğraf değişiklikleri iki menüde de aynı veriden okunur. Henüz kaydedilmemiş taslaklar bulundukları tarayıcı adresinde saklandığından, eski paneldeki taslağı eski panelden yayınlayın.
+
 Telefonda ve bilgisayarda çalışan kategori filtreli, aranabilir bir menü ve GitHub üzerinden ürün yönetimi. Mevcut `menu.json` ürünleri ve `images/` fotoğrafları korunur. Sunucu, veritabanı veya ücretli yönetim hizmeti gerekmez.
 
 - Müşteri menüsü: `index.html`
