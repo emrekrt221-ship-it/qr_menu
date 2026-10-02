@@ -41,6 +41,60 @@
       "aciklama": "110 gram Burger Köftesi,Çedar Peyniri, Marul, Dometes,Turşu Soğan, Özel sos. Patates Kızartmasıyla servis edilir.",
       "fiyat": "280 TL",
       "resim": "images/upload-c4e9d313-18c7-4d65-b707-00f6a1e08346.jpg"
+    },
+    {
+      "isim": "Burger No.2",
+      "aciklama": "110gram Burger Köftesi, Çedar Peynir, Ayoli Sos, Karamelize Soğan,Turşu. Patates Kızartması ile servis edilir.",
+      "fiyat": "280 TL",
+      "resim": "images/upload-40ad5539-7e00-4aaf-a2ff-a771705f54f8.jpg"
+    },
+    {
+      "isim": "Burger No.3",
+      "aciklama": "110gram Burger Köftesi ,Çedar Peyniri, Jalapeno Turşusu, Soğan,Domates, Marul ,Ayoli Sos. Patates Kızartmasıyla servis edilir.",
+      "fiyat": "270 TL",
+      "resim": "images/upload-4257e60e-dcaf-4649-9623-18206240091d.jpg"
+    },
+    {
+      "isim": "Burger No.4",
+      "aciklama": "2 Adet 110gram Burger Köftesi, Çedar Peyniri Trüf Mantar Sosu, Karamelize Soğan, Ayoli Sos, Marul. Patates kızartmasıyla servis edilir.",
+      "fiyat": "390 TL",
+      "resim": "images/upload-5d343da9-a4ea-474b-8519-0c508b3b718d.jpg"
+    },
+    {
+      "isim": "Burger No.5",
+      "aciklama": "110 gram burger köftesi, 2 adet cheddar peyniri, barbekü sos, kızarmış soğan, domates, taze soğan. Patates kızartmasıyla servis edilir.",
+      "fiyat": "290 TL",
+      "resim": "images/upload-fef746d9-4935-45d5-af0b-985544d722b3.jpg"
+    },
+    {
+      "isim": "Burger No.6",
+      "aciklama": "110gram Burger Köftesi, 4 adet Çedar Peyniri, , Turşu, Domates,Hardal. Patates Kızara",
+      "fiyat": "280 TL",
+      "resim": "images/upload-d74afe6e-1a9a-4b49-a477-275eb478deea.jpg"
+    },
+    {
+      "isim": "Burger No.7",
+      "aciklama": "110gram Burger Köftesi, 4 adet Çedar Peyniri, , Turşu, Domates,Hardal. Patates Kızara",
+      "fiyat": "290 TL",
+      "resim": "images/upload-8187ecb6-9e6f-4188-8440-b534b7964100.jpg"
+    },
+    {
+      "isim": "Burger No.8",
+      "aciklama": "3 Adet Çıtır Tavuk,Turşu,Marul,Soğan,Domates, Özel Sos. Patates Kızartmasıyla servis edilir.",
+      "fiyat": "250 TL",
+      "resim": "images/upload-f655d9c7-0477-4e89-a0ec-79915ea169b4.jpg"
+    },
+    {
+      "isim": "Burger No.9",
+      "aciklama": "3 Adet Çıtır Tavuk, Ayoli Sos, Turşu, Karamelize Soğan. Patates Kızartmasıyla servis edilir.",
+      "fiyat": "250 TL",
+      "resim": "images/upload-cc58a0de-ff3d-4414-b4b7-702faf828aa8.jpg"
+    },
+    {
+      "isim": "Burger No.10",
+      "aciklama": "3 adet çıtır tavuk, soğan, turşu, marul, barbekü sos gibi özel sos",
+      "fiyat": "270 TL",
+      "resim": "images/upload-881156be-bf58-4a08-a174-d221844bc1f8.jpg"
     }
   ],
   "Dürümler": [
