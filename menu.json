@@ -4,19 +4,22 @@
       "isim": "Et Hamburger",
       "aciklama": "El yapımı 110 g dana köftesi, marul, domates, turşu ve özel sos ile patates kızartmasıyla servis edilir.",
       "fiyat": "280 TL",
-      "resim": "images/et_hamburger.jpg"
+      "resim": "images/et_hamburger.jpg",
+      "aktif": false
     },
     {
       "isim": "Çıtır Tavuk Burger",
       "aciklama": "Pane kaplı tavuk parçaları, coleslaw salatası ve patates kızartmasıyla.",
       "fiyat": "260 TL",
-      "resim": "images/citirtavuk_burger.jpg"
+      "resim": "images/citirtavuk_burger.jpg",
+      "aktif": false
     },
     {
       "isim": "Tavuk Burger",
       "aciklama": "Izgara tavuk fileto, marul ve özel sosla servis edilir.",
       "fiyat": "260 TL",
-      "resim": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80"
+      "resim": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?auto=format&fit=crop&w=800&q=80",
+      "aktif": false
     },
     {
       "isim": "Cheese Burger",
@@ -34,7 +37,8 @@
       "isim": "Barbekü Tavuk Burger",
       "aciklama": "Barbekü soslu tavuk burger, taze sebzelerle.",
       "fiyat": "260 TL",
-      "resim": "images/bbq_burger.png"
+      "resim": "images/bbq_burger.png",
+      "aktif": false
     },
     {
       "isim": "Burger No.1",
