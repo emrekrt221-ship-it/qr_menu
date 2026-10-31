@@ -231,7 +231,8 @@
       "isim": "Tavuk Pirzola",
       "aciklama": "Izgarada marine tavuk pirzola, garnitürlerle birlikte.",
       "fiyat": "430 TL",
-      "resim": "images/tavuk_pirzola.jpg"
+      "resim": "images/tavuk_pirzola.jpg",
+      "aktif": true
     },
     {
       "isim": "Ezme Üstü Kebap",
@@ -361,6 +362,20 @@
       "fiyat": "10 TL",
       "resim": "images/su.jpeg",
       "aktif": true
+    }
+  ],
+  "Çorbalar": [
+    {
+      "isim": "Kelle Paça Çorbası",
+      "aciklama": "",
+      "fiyat": "300 TL",
+      "resim": "images/upload-aa701cf8-54cd-4b9f-90da-3c3e1bd4ddf6.jpg"
+    },
+    {
+      "isim": "Mercimek Çorbası",
+      "aciklama": "",
+      "fiyat": "150 TL",
+      "resim": "images/upload-2a572f50-ca94-435f-995c-e9ff6a7dc4c4.jpg"
     }
   ]
 }
